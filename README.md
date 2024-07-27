@@ -2,7 +2,7 @@
 
 ## ⚠️DISCLAIMER⚠️
 
-This keylogger is MALICIOUS by definition. I created this as a learning experience for myself, by myself (with the help of online resources where needed). Attempting to run this may flag antivirus as malicious software, and an exception will need to be added.
+This keylogger is fully functional and MALICIOUS by definition. I created this as a learning experience for myself, by myself (with the help of online resources where needed). Attempting to run this may flag antivirus as malicious software, and an exception will need to be added.
 
 
 ## Objective
